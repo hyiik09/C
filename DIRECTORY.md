@@ -149,7 +149,7 @@
   * [Spirograph](https://github.com/TheAlgorithms/C/blob/master/graphics/spirograph.c)
 
 ## Greedy Approach
-  * [Djikstra](https://github.com/TheAlgorithms/C/blob/master/greedy_approach/djikstra.c)
+  * [Dijkstra](https://github.com/TheAlgorithms/C/blob/master/greedy_approach/dijkstra.c)
   * [Prim](https://github.com/TheAlgorithms/C/blob/master/greedy_approach/prim.c)
 
 ## Hash
@@ -294,6 +294,7 @@
   * [Gauss Elimination](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/gauss_elimination.c)
   * [Gauss Seidel Method](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/gauss_seidel_method.c)
   * [Lagrange Theorem](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/lagrange_theorem.c)
+  * [Linear Regression](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/linear_regression.c)
   * [Lu Decompose](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/lu_decompose.c)
   * [Mean](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/mean.c)
   * [Median](https://github.com/TheAlgorithms/C/blob/master/numerical_methods/median.c)
@@ -418,3 +419,5 @@
   * [Shell Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/shell_sort.c)
   * [Shell Sort2](https://github.com/TheAlgorithms/C/blob/master/sorting/shell_sort2.c)
   * [Stooge Sort](https://github.com/TheAlgorithms/C/blob/master/sorting/stooge_sort.c)
+
+## [Tic Tac Toe Game](https://github.com/TheAlgorithms/C/blob/master//tic_tac_toe_game.c)
