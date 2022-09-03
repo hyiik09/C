@@ -87,5 +87,7 @@ int main()
     {
         printf("\nEquation of best fit is: y = %0.2fx", m);
     }   
+    
+    test();
     return (0);
 }
