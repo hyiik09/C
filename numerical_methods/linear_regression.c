@@ -25,7 +25,7 @@ int main()
         scanf("%f", &y[i]);
     }
 
-    /* Calculating Required Sum */
+    // Calculating Required Sum 
     for (i = 1; i <= n; i++)
     {
         sumX = sumX + x[i];
